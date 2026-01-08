@@ -1,3 +1,3 @@
 🐼 Pandas DataFrame & Data Handling
 
-Hands-on Pandas notebook showcasing data wrangling, feature engineering, exploratory data analysis, datetime handling, missing value treatment, and dataset integration using Python, Pandas, and NumPy. Designed as a foundational data preparation workflow for downstream modeling and analysis.
+End-to-end data preparation project using Pandas and NumPy, focusing on structured data transformation, feature engineering, categorical creation, datetime processing, missing value handling, and dataset merging to support machine learning pipelines. Demonstrates clean, scalable data preprocessing practices.
