@@ -1,3 +1,3 @@
 🐼 Pandas DataFrame & Data Handling
 
-End-to-end Pandas project demonstrating data cleaning, transformation, feature engineering, datetime handling, missing value treatment, and dataset merging using Python, Pandas, and NumPy. Designed for analytics, data science, and machine learning workflows.
+Hands-on Pandas notebook showcasing data wrangling, feature engineering, exploratory data analysis, datetime handling, missing value treatment, and dataset integration using Python, Pandas, and NumPy. Designed as a foundational data preparation workflow for downstream modeling and analysis.
